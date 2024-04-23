@@ -1,0 +1,17 @@
+{
+  "name": "books-store",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Soham Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

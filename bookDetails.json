@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "year_published": 1960,
+    "price": 3.5,
+    "summary": "Set in the American South during the 1930s, this novel follows young Scout Finch as she learns about morality, empathy, and racial injustice through her father's defense of a black man wrongly accused of rape."
+  },
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction",
+    "year_published": 1949,
+    "price": 5.5,
+    "summary": "In a totalitarian society ruled by the Party and its leader, Big Brother, protagonist Winston Smith rebels against the oppressive regime and grapples with surveillance, censorship, and the nature of truth."
+  },
+  {
+    "id": 2,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance, Classic Fiction",
+    "year_published": 1813,
+    "price": 2.5,
+    "summary": "A witty and insightful portrayal of societal norms and gender roles in early 19th-century England, this novel follows the spirited Elizabeth Bennet as she navigates love, marriage, and social class."
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction, Jazz Age",
+    "year_published": 1925,
+    "price": 3.0,
+    "summary": "Set in the Roaring Twenties, this novel explores the American Dream and the disillusionment of the post-World War I era through the eyes of narrator Nick Carraway and his enigmatic neighbor Jay Gatsby."
+  },
+  {
+    "id": 4,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "year_published": 1951,
+    "price": 4.5,
+    "summary": "Narrated by Holden Caulfield, a disillusioned teenager, this novel explores themes of alienation, identity, and the search for authenticity as Holden navigates the complexities of adolescence in post-World War II America."
+  }
+]
